@@ -1,0 +1,1 @@
+export 'view/google_map_page.dart';
